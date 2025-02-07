@@ -9,3 +9,5 @@
 #docker.io/syncthing/syncthing:1.27.9
 #docker.io/linuxserver/qbittorrent:14.3.9
 docker.io/youshandefeiyang/allinone:latest
+docker.io/php:8.2.27-fpm
+docker.io/nginx:1.27.4-alpine
