@@ -13,3 +13,4 @@ docker.io/php:8.2.27-fpm
 docker.io/nginx:1.27.4-alpine
 docker.io/appsmith/appsmith-ee:v1.85
 docker.io/weejewel/wg-easy:7-nightly
+docker.io/linzeyi/hivision_idphotos:v1.3.1
